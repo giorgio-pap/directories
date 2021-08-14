@@ -14,7 +14,7 @@ Names of directories are used as poem titles. Names of files are used as poem li
 The various volumes of **Directories** can be found [here](https://www.giorgiopapitto-poesia.it/directories). It is possible to freely read all of them. You can request me free .pdf files or paperback copies (limited to 20 copies for each volume in total).
 
 ## Code
-The script has been written using **Python**. It requires the following packages to run:
+The script has been written using **Python3**. It requires the following packages to run:
 - [python-docx](https://pypi.org/project/python-docx/)
 - [natsort](https://pypi.org/project/natsort/)
 

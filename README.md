@@ -11,7 +11,7 @@ No edit has been made. Nothing has been hidden, nothing has been added.
 Names of directories are used as poem titles. Names of files are used as poem lines. 
 
 ## Code
-The script has been written using **Psychopy3**. It requires the following packages to run:
+The script has been written using **Python**. It requires the following packages to run:
 - [python-docx](https://pypi.org/project/python-docx/)
 - [natsort](https://pypi.org/project/natsort/)
 

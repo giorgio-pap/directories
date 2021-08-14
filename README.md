@@ -1,0 +1,2 @@
+# directories
+a poetry project 
